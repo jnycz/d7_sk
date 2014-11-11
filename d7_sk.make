@@ -152,6 +152,10 @@ projects[xmlsitemap][version] = "2.0"
 
 ; Set before each module - projects[][subdir] = "custom"
 
+; TODO: Add custom modules to github
+
+
+; Example
 ; Valet
 ;
 ; Quicksilver/Alfred menu lookup for Drupal.
@@ -167,18 +171,14 @@ projects[xmlsitemap][version] = "2.0"
 ; =============================================
 
 
-;projects[adminimal_theme][type] = "theme"
-;projects[adminimal_theme][subdir] = "contrib"
-;projects[adminimal_theme][version] = "1.0"
+; Seven Plus Admin Theme
+; https://github.com/jnycz/sevenplus
+projects[sevenplus][type] = "theme"
+projects[sevenplus][subdir] = "contrib"
+projects[sevenplus][version] = "1.0"
+projects[sevenplus][download][type] = "git"
+projects[sevenplus][download][url] = "git@github.com:jnycz/sevenplus.git"
 
-; Fett Base Theme
-;
-; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
-; @see https://github.com/JaceRider/Fett
-;projects[Fett][type] = "theme"
-;projects[Fett][subdir] = "custom"
-;projects[Fett][download][type] = "git"
-;projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
 
 
 ; =============================================
