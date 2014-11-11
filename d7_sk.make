@@ -174,10 +174,10 @@ projects[xmlsitemap][version] = "2.0"
 ; Seven Plus Admin Theme
 ; https://github.com/jnycz/sevenplus
 projects[sevenplus][type] = "theme"
-projects[sevenplus][subdir] = "contrib"
+projects[sevenplus][subdir] = ""
 projects[sevenplus][version] = "1.0"
 projects[sevenplus][download][type] = "git"
-projects[sevenplus][download][url] = "git@github.com:jnycz/sevenplus.git"
+projects[sevenplus][download][url] = "https://github.com/jnycz/sevenplus.git"
 
 
 
