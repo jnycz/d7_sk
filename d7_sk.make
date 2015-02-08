@@ -24,6 +24,9 @@ projects[admin_menu][version] = "3.0-rc4"
 ; Advanced Text Formatter
 projects[advanced_text_formatter][version] = "1.2"
 
+; Automatic Node Title
+projects[auto_nodetitle][version] = "7.x-1.x-dev"
+
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.0-beta4"
 
@@ -110,9 +113,6 @@ projects[menu_block][version] = "2.3"
 
 ; Meta tags quick
 projects[metatags_quick][version] = "2.7"
-
-; Page Title
-projects[page_title][version] = "2.7"
 
 ; Pathauto
 projects[pathauto][version] = "1.2"
