@@ -72,6 +72,9 @@ projects[eck][version] = "2.0-rc2"
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
 
+; Enviroment Indicator
+projects[environment_indicator][version] = "7.x-2.5"
+
 ; External Links
 projects[extlink][version] = "1.13"
 
@@ -80,6 +83,9 @@ projects[features][version] = "2.0"
 
 ; Feeds
 projects[feeds][version] = "2.0-alpha8"
+
+; Field Collection
+projects[field_collection][version] = "7.x-1.x-dev"
 
 ; Field group
 projects[field_group][version] = "1.3"
