@@ -19,49 +19,51 @@ projects[drupal][subdir] = ''
 
 
 ; Administration Menu 
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "7.x-3.0-rc5"
 
 ; Advanced Text Formatter
-projects[advanced_text_formatter][version] = "1.2"
+projects[advanced_text_formatter][version] = "7.x-1.4"
 
 ; Automatic Node Title
 projects[auto_nodetitle][version] = "7.x-1.x-dev"
 
 ; Better Exposed Filters
-projects[better_exposed_filters][version] = "3.0-beta4"
+projects[better_exposed_filters][version] = "7.x-3.x-dev"
 
 ; Better Formats
 projects[better_formats][version] = "1.0-beta1"
 
 ; Context
-projects[context][version] = "3.2"
+projects[context][version] = "7.x-3.6"
 
 ; Chaos tool suite
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "7.x-1.6"
 
 ; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.16"
+projects[ckeditor][version] = "7.x-1.16"
 
 ; CKEditor Link
-projects[ckeditor_link][version] = "2.3"
+projects[ckeditor_link][version] = "7.x-2.3"
 
 ; CKEditor Link File
-projects[ckeditor_link_file][version] = "1.3"
+projects[ckeditor_link_file][version] = "7.x-1.3"
 
 ; Date
-projects[date][version] = "2.7"
+projects[date][version] = "7.x-2.x-dev"
 
 ; Date iCal
-projects[date_ical][version] = "3.1"
+projects[date_ical][version] = "7.x-3.3"
 
 ; Devel
-projects[devel][version] = "1.4"
+projects[devel][version] = "7.x-1.5"
 
 ; Email
-projects[email][version] = "1.2"
+projects[email][version] = "7.x-1.3"
 
 ; Entity API
 projects[entity][version] = "1.4"
+
+; ------- Left off here --------
 
 ; Entity cache
 projects[entitycache][version] = "1.2"
