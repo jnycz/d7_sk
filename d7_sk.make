@@ -61,7 +61,7 @@ projects[devel][version] = "7.x-1.5"
 projects[email][version] = "7.x-1.3"
 
 ; Entity API
-projects[entity][version] = "1.4"
+projects[entity][version] = "1.6"
 
 ; ------- Left off here --------
 
@@ -132,7 +132,7 @@ projects[redirect][version] = "1.0-rc1"
 projects[token][version] = "1.5"
 
 ; Views
-projects[views][version] = "3.7"
+projects[views][version] = "3.10"
 
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.2"
