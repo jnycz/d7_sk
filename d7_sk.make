@@ -81,7 +81,7 @@ projects[environment_indicator][version] = "7.x-2.5"
 projects[extlink][version] = "1.13"
 
 ; Features
-projects[features][version] = "2.0"
+projects[features][version] = "2.5"
 
 ; Feeds
 projects[feeds][version] = "2.0-alpha8"
