@@ -102,19 +102,19 @@ projects[google_analytics][version] = "1.4"
 projects[google_webfont_loader_api][version] = "1.11"
 
 ; IMCE
-projects[imce][version] = "1.8"
+projects[imce][version] = "1.9"
 
 ; Inline Entity Form
 projects[inline_entity_form][version] = "1.5"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.x-dev"
+projects[jquery_update][version] = "7.x-2.5"
 
 ; Libraries
 projects[libraries][version] = "2.2"
 
 ; Link
-projects[link][version] = "1.2"
+projects[link][version] = "7.x-1.3"
 
 ; Menu Block
 projects[menu_block][version] = "2.3"
@@ -129,7 +129,7 @@ projects[pathauto][version] = "1.2"
 projects[redirect][version] = "1.0-rc1"
 
 ; Token
-projects[token][version] = "1.5"
+projects[token][version] = "7.x-1.6"
 
 ; Views
 projects[views][version] = "3.10"
@@ -141,7 +141,7 @@ projects[views_bulk_operations][version] = "3.2"
 projects[views_load_more][version] = "1.2"
 
 ; Views UI Edit Basic Settings
-projects[views_ui_basic][version] = "1.2"
+projects[views_ui_basic][version] = "7.x-1.3"
 
 ; Webform
 projects[webform][version] = "4.0-beta3"
