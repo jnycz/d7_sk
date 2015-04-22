@@ -125,11 +125,17 @@ projects[metatags_quick][version] = "2.7"
 ; Pathauto
 projects[pathauto][version] = "1.2"
 
+; Schema
+projects[schema][version] = "7.x-1.2"
+
 ; Redirect
 projects[redirect][version] = "1.0-rc1"
 
 ; Token
 projects[token][version] = "7.x-1.6"
+
+; UUID
+projects[uuid][version] = "7.x-1.x-dev"
 
 ; Views
 projects[views][version] = "3.10"
